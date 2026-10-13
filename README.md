@@ -1,1 +1,2 @@
-# Budget-Tracker
+# Budget-Tracker for CS361
+# Milestone #1 in progress
