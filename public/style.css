@@ -1,0 +1,4 @@
+/*IH3: to hide the date and description until the user clicks show details. */
+.hideDetails .details{
+    display: none;
+}

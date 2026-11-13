@@ -1,0 +1,12 @@
+{
+    "name": "budget-tracker",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "expense_controller.js",
+    "scripts": {
+        "start": "node expense_controller.js"
+    },
+    "dependencies": {
+        "express": "^4.21.2"
+    }
+}
